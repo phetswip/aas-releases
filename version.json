@@ -1,8 +1,8 @@
 {
-  "versionCode": 245,
-  "versionName": "3.8.1",
+  "versionCode": 244,
+  "versionName": "3.8.0",
   "apkUrl": "https://github.com/phetswip/aas-releases/releases/download/v3.8.0/AiAffiliateShopee-v3.8.0.apk",
-  "notes": "• ระบบอัปเดตในแอพ (เด้งแจ้ง+กดอัปเดตได้เลย)\n• แก้โกดัง/ULTRA เจนภาพซ้ำ\n• แคปชั่น/แฮชแท็กส่งครบ ไม่ถูกตัดกลางคำ",
+  "notes": "• ระบบอัปเดตในแอพ (การ์ดสวย + ปุ่มในตั้งค่า + ไปต่ออัตโนมัติหลังเปิดสิทธิ์)\n• แก้โกดัง/ULTRA เจนภาพซ้ำ\n• แคปชั่น/แฮชแท็กส่งครบ ไม่ถูกตัดกลางคำ",
   "minSupported": 0,
   "force": false
 }
