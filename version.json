@@ -1,6 +1,6 @@
 {
-  "versionCode": 243,
-  "versionName": "3.7.9-test",
+  "versionCode": 242,
+  "versionName": "3.7.9",
   "apkUrl": "https://github.com/phetswip/aas-releases/releases/download/v3.7.9/AiAffiliateShopee-v3.7.9.apk",
   "notes": "• ระบบอัปเดตในแอพ (เด้งแจ้งเวอร์ชันใหม่อัตโนมัติ)\n• แก้โกดัง/ULTRA เจนภาพซ้ำ\n• แคปชั่น/แฮชแท็กไม่ถูกตัดกลางคำ",
   "minSupported": 0,
