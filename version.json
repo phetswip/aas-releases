@@ -1,8 +1,8 @@
 {
-  "versionCode": 245,
-  "versionName": "3.8.1",
-  "apkUrl": "https://github.com/phetswip/aas-releases/releases/download/v3.8.1/AiAffiliateShopee-v3.8.1.apk",
-  "notes": "เพิ่มระบบประกาศในแอพ (แจ้งข่าวจากแอดมินถึงลูกค้าได้)",
+  "versionCode": 265,
+  "versionName": "4.0.1",
+  "apkUrl": "https://github.com/phetswip/aas-releases/releases/download/v4.0.1/AiAffiliateShopee-v4.0.1.apk",
+  "notes": "• บัญชีที่ไม่มีป้าย SHOPEE VIDEO โพสต์ได้แล้ว — เปิดกล้องตรง ไม่ต้องเทรน\n• ปักตะกร้าสินค้ามาพร้อมคลิป โพสต์เร็วขึ้น\n• แก้โพสต์ซ้ำคลิปแรกในชุดสินค้า\n• เครื่องช้า/Cloud Phone ทำงานต่อเนื่อง ไม่เปิด Shopee ซ้ำ\n• สะดุดกลางทาง เริ่มใหม่จากกล้องเอง\n• แก้เปิดแอพแล้วเด้งออก",
   "minSupported": 0,
   "force": false
 }
